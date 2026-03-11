@@ -21,7 +21,7 @@ A desktop application for managing student records.
 
 ## Screenshot
 
-photo_2026-03-11 20.48.19.jpeg
+screenshot.jpeg
 
 ## How to Run
 
