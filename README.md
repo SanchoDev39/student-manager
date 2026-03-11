@@ -21,7 +21,7 @@ A desktop application for managing student records.
 
 ## Screenshot
 
-screenshot.jpeg
+![Student Manager](screenshot.png)
 
 ## How to Run
 
